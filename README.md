@@ -10,7 +10,7 @@ Diatas adalah fungsi solve untuk menyelesaikan problem 8 puzzle. Difungsi terseb
 
 ![while](https://user-images.githubusercontent.com/56763570/77401947-0d486d00-6d6b-11ea-8a6d-43f77d71077c.PNG)
 
-Untuk mencari nilai perpindahan yang paling sedikit. dan jika nilai min->cost telah ditemukan yang paling kecil yaitu min->cost == 0 maka akan meng-outputkan hasilnya dengan memanggil fungsi printPath().
+Untuk mencari nilai perpindahan yang paling sedikit. dan jika nilai min->cost telah ditemukan yang paling kecil yaitu min->cost == 0 (yang berarti puzzle telah sesuai dengan posisi akhir yang telah ditentukan) maka akan meng-outputkan hasilnya dengan memanggil fungsi printPath().
 
 ![print](https://user-images.githubusercontent.com/56763570/77402876-9318e800-6d6c-11ea-8862-82db85ceda53.PNG)
 
